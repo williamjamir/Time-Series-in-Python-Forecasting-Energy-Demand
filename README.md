@@ -1,10 +1,10 @@
 # Python environment with a requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/williamjamir/Time-Series-in-Python-Forecasting-Energy-Demand/HEAD)
 
 Access this Binder at the following URL
 
-http://mybinder.org/v2/gh/binder-examples/requirements/master
+https://mybinder.org/v2/gh/williamjamir/Time-Series-in-Python-Forecasting-Energy-Demand/HEAD
 
 ## Dev
 
